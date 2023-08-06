@@ -19,37 +19,37 @@ const quantity = document.querySelector(".quantity");
 let products = [
     {
         id: 1,
-        name: "PRODUCT 1",
+        name: "Glass Jar",
         images: "1.PNG",
         price: 2000
     },
     {
         id: 2,
-        name: "PRODUCT 2",
+        name: "Jacket",
         images: "2.PNG",
         price: 1800
     },
     {
         id: 3,
-        name: "PRODUCT 3",
+        name: "Bracelet",
         images: "3.PNG",
         price: 1500
     },
     {
         id: 4,
-        name: "PRODUCT 4",
+        name: "Cloth",
         images: "4.PNG",
         price: 2200
     },
     {
         id: 5,
-        name: "PRODUCT 5",
+        name: "Jeans",
         images: "5.PNG",
         price: 2500
     },
     {
         id: 6,
-        name: "PRODUCT 6",
+        name: "Dress",
         images: "6.PNG",
         price: 3000
     },
